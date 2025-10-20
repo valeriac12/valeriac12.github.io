@@ -1,3 +1,5 @@
+<body style="background-color:#e6f2ff;">
+
 # 🧩 Professional Self-Assessment
 
 As I reach the end of my Computer Science program at **Southern New Hampshire University**, this capstone project represents the most complete demonstration of my growth, technical skills, and professional identity. Over the course of the program, I have developed my abilities as a software engineer and problem solver, gaining experience in software design, algorithms, databases, and secure coding. Through the enhancements made to my **CS 320 – Software Test Automation** project, I have demonstrated mastery of all five program outcomes, which collectively show my readiness to enter the field as a software engineer with a focus on database systems.
@@ -46,3 +48,5 @@ I am proud of the progress I have made and excited to apply these skills in my f
 
 **Navigation:**  
 [Home](index.html) | [Code Review](code-review.html) | [Software Engineering Enhancement](enhancement1.html) | [Algorithms & Data Structures Enhancement](enhancement2.html) | [Databases Enhancement](enhancement3.html)
+
+</body>
