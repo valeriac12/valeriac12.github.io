@@ -52,8 +52,9 @@ Through this process, I developed stronger skills in database integration and ga
 
 ## 🧾 Links to the Artifact
 
-- [Original CS 320 Artifact](LINK-TO-ORIGINAL-FILE)  
-- [Enhanced Artifact – Database Integration Version](LINK-TO-ENHANCED-FILE)
+- [Original CS 320 Artifact](https://github.com/valeriac12/valeriac12.github.io/blob/main/CS320_Original.zip)
+- [Enhanced Artifact – Databases Version](https://github.com/valeriac12/valeriac12.github.io/blob/main/CS320_Enhanced_Databases.zip)
+
 
 ---
 
