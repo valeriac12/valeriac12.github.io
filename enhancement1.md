@@ -43,9 +43,8 @@ It also reinforced the importance of planning before implementation, as a good s
 ---
 
 ## 🧾 Links to the Artifact
-
-- [Original CS 320 Artifact](LINK-TO-ORIGINAL-FILE)  
-- [Enhanced Artifact – Software Engineering Version](LINK-TO-ENHANCED-FILE)
+- [Original CS 320 Artifact](https://github.com/valeriac12/valeriac12.github.io/blob/main/CS320_Original.zip)
+- [Enhanced Artifact – Software Engineering Version](https://github.com/valeriac12/valeriac12.github.io/blob/main/CS320_Enhanced_SoftwareDesign.zip)
 
 ---
 
