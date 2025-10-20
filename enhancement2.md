@@ -45,8 +45,8 @@ I now feel better prepared to build systems that are both functional and optimiz
 
 ## 🧾 Links to the Artifact
 
-- [Original CS 320 Artifact](LINK-TO-ORIGINAL-FILE)  
-- [Enhanced Artifact – Algorithms & Data Structures Version](LINK-TO-ENHANCED-FILE)
+- [Original CS 320 Artifact](https://github.com/valeriac12/valeriac12.github.io/blob/main/CS320_Original.zip)
+- [Enhanced Artifact – Algorithms & Data Structures Version](https://github.com/valeriac12/valeriac12.github.io/blob/main/CS320_Enhanced_Algorithms.zip)
 
 ---
 
